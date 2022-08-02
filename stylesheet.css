@@ -738,7 +738,7 @@ p {
     /* Blog Section */
 
     .blog-section {
-        height: 3000px;
+        height: 3100px;
         text-align: center;
         padding-top: 190px;
         color: #3B4A6B;
@@ -800,7 +800,7 @@ p {
 
     .blog-section .center-button {
         background-color: #FCA311;
-        width: 210px;
+        width: 272px;
         height: 60px;
         margin-top: 20px;
         font-size: 30px;
@@ -810,7 +810,7 @@ p {
 
     /* Contatc Section */
     .contact-section {
-        height: 1100px;
+        height: 1500px;
         background-color: #3B4A6B;
     }
 
