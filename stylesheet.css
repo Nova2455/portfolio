@@ -720,7 +720,7 @@ p {
     .portfolio-section img {
         height: 550px;
         position: relative;
-        left: 80px;
+        left: 100px;
         top: 60px;
     }
 
@@ -810,7 +810,7 @@ p {
 
     /* Contatc Section */
     .contact-section {
-        height: 1500px;
+        height: 1300px;
         background-color: #3B4A6B;
     }
 
