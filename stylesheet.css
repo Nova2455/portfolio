@@ -301,7 +301,7 @@ p {
 /* Blog Section */
 
 .blog-section {
-    height: 1550px;
+    height: 1450px;
     text-align: center;
     padding-top: 190px;
     color: #3B4A6B;
@@ -377,7 +377,7 @@ p {
 
 .blog-section .center-button {
     background-color: #FCA311;
-    width: 40%;
+    width: 30%;
     height: 60px;
     margin: auto;
     font-size: 30px;
@@ -394,7 +394,7 @@ p {
 
 
 
-/* Contatc Section */
+/* Contact Section */
 .contact-section {
     height: 1260px;
     background-color: #3B4A6B;
@@ -738,7 +738,7 @@ p {
     /* Blog Section */
 
     .blog-section {
-        height: 3100px;
+        height: 3200px;
         text-align: center;
         padding-top: 190px;
         color: #3B4A6B;
@@ -800,7 +800,7 @@ p {
 
     .blog-section .center-button {
         background-color: #FCA311;
-        width: 272px;
+        width: 300px;
         height: 60px;
         margin-top: 20px;
         font-size: 30px;
